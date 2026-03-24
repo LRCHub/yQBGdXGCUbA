@@ -1,0 +1,120 @@
+{
+  "version": 1,
+  "base_track": "Killshot",
+  "base_artist": "Eminem",
+  "createdAt": "2026-03-24T07:42:50.433444Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Killshot",
+      "artist": "Magdalena Bay",
+      "has_synced": true,
+      "path": "select/01_Killshot_Magdalena_Bay.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Killshot",
+      "artist": "Eminem",
+      "has_synced": true,
+      "path": "select/02_Killshot_Eminem.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Killshot",
+      "artist": "Sad Night Dynamite",
+      "has_synced": true,
+      "path": "select/03_Killshot_Sad_Night_Dynamite.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Killshot",
+      "artist": "ssjishmael",
+      "has_synced": false,
+      "path": "select/04_Killshot_ssjishmael.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "KILLSHOT 2",
+      "artist": "Dax",
+      "has_synced": false,
+      "path": "select/05_KILLSHOT_2_Dax.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "KILLSHOT 2",
+      "artist": "Dax",
+      "has_synced": true,
+      "path": "select/06_KILLSHOT_2_Dax.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "KILLSHOT 3",
+      "artist": "Dax",
+      "has_synced": false,
+      "path": "select/07_KILLSHOT_3_Dax.txt"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "KILLSHOT 3",
+      "artist": "Dax",
+      "has_synced": true,
+      "path": "select/08_KILLSHOT_3_Dax.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Killshot",
+      "artist": "Magdalena Bay",
+      "has_synced": true,
+      "path": "select/09_Killshot_Magdalena_Bay.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Killshot",
+      "artist": "Kant",
+      "has_synced": true,
+      "path": "select/10_Killshot_Kant.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "The Killshot",
+      "artist": "Kataklysm",
+      "has_synced": true,
+      "path": "select/11_The_Killshot_Kataklysm.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Killshot",
+      "artist": "Eminem",
+      "has_synced": true,
+      "path": "select/12_Killshot_Eminem.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Killshot",
+      "artist": "Eminem",
+      "has_synced": true,
+      "path": "select/13_Killshot_Eminem.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Killshot",
+      "artist": "Eminem",
+      "has_synced": false,
+      "path": "select/pl_01_Killshot_Eminem.txt"
+    }
+  ]
+}
